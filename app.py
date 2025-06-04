@@ -8,7 +8,7 @@ def saudacao(nome: str) -> str:
 
     """
 
-    return f"Olá, {nome}!"
+    return f"Olá, {nome}, Bom dia!"
 
 if __name__ == "__main__":
 
